@@ -10,9 +10,9 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : ベトナム・ウェブ調査
-tagline: Site Tagline
+tagline: ベトナムでベトナム人のウェブを調査しています。
 author :
-  name : Name Lastname
+  name : Yoshiyuki Sugimoto
   email : s.yosiyuki@gmail.com
   github : yosiyuki
   twitter : saigon
